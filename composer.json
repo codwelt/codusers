@@ -1,0 +1,43 @@
+{
+  "name": "codwelt/codusers",
+  "description": "Paquete para laravel que ayuda con el crud avanzado de usuarios y unsistema de autenticación",
+  "type": "php",
+  "license": "MIT",
+  "homepage": "https://codwelt.com/",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "keywords": [
+    "laravel",
+    "codusers",
+    "html5",
+    "Css3",
+    "Javascript",
+    "Php",
+    "Api"
+  ],
+  "autoload": {
+    "psr-4": {
+      "Codwelt\\codusers\\": "src"
+    }
+  },
+  "authors": [
+    {
+      "name": "Sergio Wiesner",
+      "email": "webdev@codwelt.com"
+    }
+  ],
+  "require": {
+    "php": ">= 7",
+    "laravel/framework": "^5.6",
+    "nesbot/carbon": "~1.18",
+    "furiosojack/lara-exception": "^1.0.0",
+    "doctrine/dbal": "^2.8"
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Codwelt\\codusers\\Providers\\CodusersProviders"
+      ]
+    }
+  }
+}

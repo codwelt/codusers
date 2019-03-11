@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1195c6e8-297e-4998-adf4-2a266c47eb7d" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Clases/Clientes/Clientes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Clases/Model.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Clases/Usuarios.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controladores/UsuariosController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Migraciones/2014_10_12_000000_create_users_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Migraciones/2014_10_12_100000_create_password_resets_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Migraciones/2019_01_07_001456_create_tipo_documentos_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Migraciones/2019_01_10_153119_add_fields_Perfiles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Migraciones/2019_01_10_153131_add_fields__Permisos.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Migraciones/2019_01_10_153213_add_fields_Categoria_Permisos.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Migraciones/2019_01_24_022358_add_clientes_table_users.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Migraciones/2019_01_24_211348_add_columns_table_perfiles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Migraciones/2019_01_24_211612_add_columns_table_permisos.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Migraciones/2019_01_24_212019_rename_and_add_table_categoriapermisos.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Migraciones/2019_01_24_214848_create_table_pivot.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Migraciones/2019_01_24_215224_create_table_pivot_perfiles_users.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Migraciones/2019_01_25_202836_delete_field_tipousuario.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Migraciones/2019_01_27_121944_add_field_rutaimg_user.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Migraciones/2019_02_02_103641_add_empleados_user.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Migraciones/2019_02_04_213810_add_soft_delete.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Migraciones/2019_02_04_215825_add_order_permisos.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modelos/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Views/listar.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Views/observar.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Views/usuarios.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codusers.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codusers.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Providers/CodusersProviders.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Providers/CodusersProviders.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/route.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/route.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="CodusersProviders.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Providers/CodusersProviders.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="443">
+              <caret line="51" column="77" lean-forward="true" selection-start-line="51" selection-start-column="77" selection-end-line="51" selection-end-column="77" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/src/route.php" />
+        <option value="$PROJECT_DIR$/src/Migraciones/2019_01_24_023009_add_table_tipo_usuario.php" />
+        <option value="$PROJECT_DIR$/src/Migraciones/2019_01_24_023055_add_table__bodegas_usuarios.php" />
+        <option value="$PROJECT_DIR$/src/Providers/CodusersProviders.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="649" />
+    <option name="width" value="1281" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="codusers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codusers" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="codusers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codusers" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="codusers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="codusers" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Providers" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\codusers\src\Controladores" />
+      <recent name="C:\xampp\htdocs\codusers\src\Clases" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\codusers\src\Migraciones" />
+      <recent name="C:\xampp\htdocs\codusers\src\Modelos" />
+      <recent name="C:\xampp\htdocs\codusers\src\Views" />
+      <recent name="C:\xampp\htdocs\codusers\src\Providers" />
+      <recent name="C:\xampp\htdocs\codusers" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1195c6e8-297e-4998-adf4-2a266c47eb7d" name="Default" comment="" />
+      <created>1542812843830</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542812843830</updated>
+      <workItem from="1542812845474" duration="3474000" />
+      <workItem from="1542827244300" duration="612000" />
+      <workItem from="1551908726810" duration="724000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4810000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.20895523" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info id="npm" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Run" order="7" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.3297062" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Providers/CodusersProviders.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Providers/CodusersProviders.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="15" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Clases/Clientes/Clientes.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controladores/UsuariosController.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/route.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Views/listar.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="23" lean-forward="true" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Modelos/User.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Migraciones/2014_10_12_000000_create_users_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="28" column="36" lean-forward="true" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Migraciones/2014_10_12_100000_create_password_resets_table.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Migraciones/2019_01_07_001456_create_tipo_documentos_table.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Migraciones/2019_01_10_153119_add_fields_Perfiles.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Migraciones/2019_01_10_153131_add_fields__Permisos.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Migraciones/2019_01_10_153213_add_fields_Categoria_Permisos.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Migraciones/2019_01_24_023055_add_table__bodegas_usuarios.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="27" column="39" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Migraciones/2019_01_24_023009_add_table_tipo_usuario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Migraciones/2019_01_24_022358_add_clientes_table_users.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Migraciones/2019_01_24_211348_add_columns_table_perfiles.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Migraciones/2019_01_24_212019_rename_and_add_table_categoriapermisos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Migraciones/2019_01_24_215224_create_table_pivot_perfiles_users.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Migraciones/2019_01_25_202836_delete_field_tipousuario.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Migraciones/2019_01_27_121944_add_field_rutaimg_user.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Migraciones/2019_01_24_214848_create_table_pivot.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Migraciones/2019_01_24_211612_add_columns_table_permisos.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Migraciones/2019_02_02_103641_add_empleados_user.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Migraciones/2019_02_04_213810_add_soft_delete.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Migraciones/2019_02_04_215825_add_order_permisos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="45" lean-forward="true" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Providers/CodusersProviders.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="51" column="77" lean-forward="true" selection-start-line="51" selection-start-column="77" selection-end-line="51" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
